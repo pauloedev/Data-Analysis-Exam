@@ -19,3 +19,12 @@ Aqui introduzi a biblioteca do 'Pandas' para criar um DataFrame de vários produ
 
 ## 1. bp_excel_export.py
 Por fim, o algoritmo defitivo do objetivo do trabalho. Aqui todo o processo é realizado, desde a raspagem, passando pela coleta e organização dos dados em um DataFrame para no final, através do método 'to_excel' o DataFrame seja exportado para um arquivo xlsx
+
+# Agradecimentos
+
+### Ao meu tutor Wallison Silva
+- GitHub: https://github.com/walissonsilva
+- YouTube: https://www.youtube.com/@WalissonSilva
+- Instagram: https://www.instagram.com/walissonsilvablog/
+- Blog: https://www.walissonsilva.com/blog
+
